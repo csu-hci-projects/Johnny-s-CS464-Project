@@ -13,3 +13,5 @@ In order to alter the level of latency from the project files you must:
 8. Change both the Transition Duration (s) and Transition Offset to the desired latency.
 9. Repeat steps 6-8 for the other arrow. 
 10. Build and run the game.
+
+Please note that the art assets used in the game were obtained from the unity asset store for free. Credit for the assets goes to Ansimuz. The asset pack used is called: Tiny RPG - Forest.
