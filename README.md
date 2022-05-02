@@ -14,4 +14,8 @@ In order to alter the level of latency from the project files you must:
 9. Repeat steps 6-8 for the other arrow. 
 10. Build and run the game.
 
+Project overview video link: https://www.youtube.com/watch?v=QUo03nt5NsQ
+Presentation video link: https://www.youtube.com/watch?v=GTCKtxiNsZg
+Link to download videos: https://www.mediafire.com/file/70meq7m75d6tamc/CS464_Video__Files.zip/file
+
 Please note that the art assets used in the game were obtained from the unity asset store for free. Credit for the assets goes to Ansimuz. The asset pack used is called: Tiny RPG - Forest.
